@@ -2,10 +2,13 @@
 .🎬 Netflix Content Trends Analysis for Strategic Recommendations
 🌟 Project OverviewThis project focuses on a comprehensive Data Science analysis of the Netflix content catalog (Movies and TV Shows) from 2008 to 2021.
 The goal is to move beyond basic reporting and provide actionable strategic recommendations to Netflix executives regarding content investment, global acquisition, and production focus.
+
 The analysis specifically addresses how the content distribution mix, genre popularity, and geographic contributions have evolved over time to identify key strengths, market gaps, and future investment opportunities in a highly competitive streaming landscape.
+
 🎯 ObjectivesThe analysis was structured around these core questions:Content Distribution: How has the balance of Movies vs. 
 TV Shows added to the catalog changed annually?Genre Trends: Which are the most common genres, and how has their popularity evolved over time?
 Global Content Strategy: What are the top country contributions to the catalog, revealing market focus and international success?⚙️ Repository StructureThe project is organized to be reproducible and easy to navigate..
+
 ├── data/
 │   └── Netflix Dataset 4.csv           # The raw dataset
 ├── results/
@@ -16,12 +19,14 @@ Global Content Strategy: What are the top country contributions to the catalog, 
 ├── Netflix_Data_Analysis.ipynb       # Main analysis code (Jupyter Notebook/Colab)
 ├── Project Proposal.pdf              # The original project proposal
 └── requirements.txt                  # List of required Python libraries
+
 🚀 Key Findings
 1. Movies vs. TV Shows
 The catalog is heavily dominated by Movies in terms of sheer volume of annual additions. However, the period between 2017 and 2019 marked the most aggressive expansion phase for both Movies and TV Shows.
-2. Genre Pillars and GrowthThe foundational pillars of the catalog are Dramas, International Movies, and Comedies. The strongest recent growth vectors, however, are International Content and Documentaries, validating Netflix's investment in global and factual programming.
-3. Global ContributionsContent contributions remain centralized, with the United States as the primary source. 
+3. Genre Pillars and GrowthThe foundational pillars of the catalog are Dramas, International Movies, and Comedies. The strongest recent growth vectors, however, are International Content and Documentaries, validating Netflix's investment in global and factual programming.
+4. Global ContributionsContent contributions remain centralized, with the United States as the primary source. 
 Following closely are key international markets: India, the United Kingdom, and Canada, highlighting successful regional content hubs.
+
 💡 Strategic RecommendationsBased on the quantitative trends, the following recommendations are crucial for future success
 :Recommendation FocusRationale from AnalysisActionable StrategyPrioritize TV Show QualityMovies drive volume, but TV Shows are essential for long-term subscriber retention (stickiness).Increase investment in developing original, high-budget, multi-season TV series to reduce churn.Double Down on InternationalInternational Movies/TV Shows are high-growth segments, indicating successful global diversification.Expand localized production in high-yield markets (e.g., India, UK) to gain a competitive edge against regional competitors.Leverage Factual ContentDocumentaries are consistently popular, often providing high impact and prestige at a lower cost than fictional series.Boost the slate of factual programming, focusing on globally relevant topics in True Crime, History, and Social Issues.
 🛠️ How to Run the AnalysisPrerequisitesYou need Python 
