@@ -16,7 +16,8 @@ Global Content Strategy: What are the top country contributions to the catalog, 
 ├── Netflix_Data_Analysis.ipynb       # Main analysis code (Jupyter Notebook/Colab)
 ├── Project Proposal.pdf              # The original project proposal
 └── requirements.txt                  # List of required Python libraries
-🚀 Key Findings1. Movies vs. TV Shows
+🚀 Key Findings
+1. Movies vs. TV Shows
 The catalog is heavily dominated by Movies in terms of sheer volume of annual additions. However, the period between 2017 and 2019 marked the most aggressive expansion phase for both Movies and TV Shows.
 2. Genre Pillars and GrowthThe foundational pillars of the catalog are Dramas, International Movies, and Comedies. The strongest recent growth vectors, however, are International Content and Documentaries, validating Netflix's investment in global and factual programming.
 3. Global ContributionsContent contributions remain centralized, with the United States as the primary source. 
